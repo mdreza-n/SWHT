@@ -1,4 +1,4 @@
-# [HerokuPHPBotBase](https://github.com/SaeedZareen/Heroku-PHP-Bot-Base)
+# [HerokuPHPBotBase](https://github.com/mdreza-n/Heroku-PHP-Bot-Base)
 
 **A Telegram BaseCode For PHP Bots To Run in Heroku Services**
 
@@ -6,7 +6,6 @@
 
 - [Heroku PHP Bot Base](#HerokuPHPBotBase)
 - [Installation](#installation)
-- [Support and development](#support-and-development)
 
 
 # Installation
@@ -41,10 +40,3 @@ You Can See Your Server info by Using This address : ```site.com/serverinfo```
 
 also You Can See Your PHP info by Using This address : ```site.com/phpinfo```
 
-# Support and development
-
-Developer : 
-[Saeed Zareen](https://t.me/EMlNEM)
-
-Channel : 
-[EdgeTeam](https://t.me/Edgeteam)
