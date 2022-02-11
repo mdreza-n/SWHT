@@ -107,6 +107,6 @@ hr {  border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0
 	</center>
 	</div>
 </div>
-<div class="footer">&copy; Copyright <script>document.write(new Date().getFullYear())</script> <a href="tg://resolve?domain=EMlNEM">Saeed Zareen</a></div>
+<div class="footer">&copy; Copyright <script>document.write(new Date().getFullYear())</script> <a href="tg://resolve?domain=TopTm">TopTm</a></div>
 </body>
 </html>
